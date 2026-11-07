@@ -1,0 +1,58 @@
+[
+  {
+    "title": "MRC Impact Acceleration Awards",
+    "funder": "Medical Research Council (MRC), UKRI",
+    "purpose": "Support a single high-risk development step for a new or repurposed medicine, medical device, diagnostic or other medical intervention. The project should generate critical data that de-risks further development.",
+    "eligibility": "Project lead must be based at an MRC-eligible research organisation, direct the project and be actively involved. Only one application can be submitted as project lead.",
+    "scope": "Includes advanced therapeutics such as RNA and nucleic-acid therapies, biologics, medicines, medical devices and other medical interventions. All human diseases are eligible.",
+    "development_stage": "The concept should already have been explored and normally have supporting data. The proposal must focus on one critical development gap rather than a multi-stage research programme.",
+    "funding": "£50,000–£300,000 full economic cost. MRC normally funds 80% FEC.",
+    "duration": "6–18 months.",
+    "deadline": "11 November 2026, 4:00pm UK time.",
+    "key_requirements": "Applicant must identify the single high-risk development step, explain why it matters, define success criteria and show how completing it enables further funding/development or patient benefit.",
+    "exclusions": "Fundamental or investigative research without a product-development plan; multiple work packages; preliminary concept-data generation; later-stage clinical work.",
+    "source_url": "https://www.ukri.org/opportunity/ukri-translation-mrc-impact-acceleration-awards/"
+  },
+  {
+    "title": "MRC Proof of Concept: Stage One",
+    "funder": "Medical Research Council (MRC), UKRI",
+    "purpose": "Develop and test novel therapeutics, medical devices, diagnostics and other medical interventions across the development pathway.",
+    "eligibility": "Project lead must be employed by an MRC-eligible research organisation, direct the project and actively participate in the work.",
+    "scope": "Academically led translational research addressing significant health needs. Projects can range from early prototype development through preclinical refinement and testing to early-phase clinical studies up to phase 2a.",
+    "development_stage": "Sufficient proof-of-concept data must already support the proposed approach.",
+    "funding": "No fixed maximum specified in the supplied information. Requested resources must be justified. MRC normally funds 80% FEC.",
+    "duration": "No fixed maximum specified in the supplied information. Duration must be justified according to the proposed work.",
+    "deadline": "18 November 2026, 4:00pm UK time.",
+    "key_requirements": "Research needs a credible translational pathway toward a medical intervention rather than simply investigating an interesting scientific question.",
+    "exclusions": "Fundamental or investigative research without a development plan; technology development without a medical or clinical development pathway; late-phase clinical trials; interventions primarily concerned with healthcare-service delivery.",
+    "source_url": "https://www.ukri.org/opportunity/mrc-proof-of-concept-stage-one/"
+  },
+  {
+    "title": "Wellcome Discovery Awards",
+    "funder": "Wellcome",
+    "purpose": "Support established researchers pursuing bold and creative research capable of creating significant shifts in understanding related to human life, health and wellbeing.",
+    "eligibility": "Lead applicant must be an established researcher with international standing, experience leading innovative research and a track record of managing and training others. Eligible administering organisations include UK higher-education institutions.",
+    "scope": "Research can come from any discipline but must either generate a significant shift in understanding or develop methodologies, tools, techniques or frameworks that could benefit health-related research.",
+    "development_stage": "Discovery research; no specific translational or product-development stage is required.",
+    "funding": "Applicants request the resources required for the programme. Average award approximately £3.5 million. Applications above £5 million receive additional scrutiny.",
+    "duration": "Up to 8 years; average approximately 7 years.",
+    "deadline": "No fixed deadline; applications can currently be submitted at any time.",
+    "key_requirements": "Research must have potential to improve human life, health or wellbeing. Competitive proposals should be bold, creative, high quality, evidence-supported and capable of producing a substantial advance in understanding or methodology.",
+    "exclusions": "None specified in the supplied information.",
+    "source_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards"
+  },
+  {
+    "title": "Bioinformatics and Biological Resources Fund",
+    "funder": "Biotechnology and Biological Sciences Research Council (BBSRC), UKRI",
+    "purpose": "Develop, improve or consolidate bioinformatics or biological resources for the wider UK bioscience community.",
+    "eligibility": "Applicants must be based at a UK research organisation eligible for BBSRC funding.",
+    "scope": "Projects must deliver a community resource addressing significant demand or serving an established bioscience user base. Examples include shared datasets, bioinformatics resources, software tools and biological collections.",
+    "development_stage": "Not specified in the supplied information.",
+    "funding": "Up to £2 million FEC, with BBSRC funding 80%, up to £1.6 million.",
+    "duration": "Up to 5 years.",
+    "deadline": "19 November 2026, 4:00pm UK time.",
+    "key_requirements": "Proposed resource should serve a broader research community rather than only the applicant's lab, and applicants must consider its long-term sustainability.",
+    "exclusions": "Projects primarily focused on biomedical, clinical or healthcare research; answering a specific research hypothesis; generating a new dataset; creating an institution-only resource.",
+    "source_url": "https://www.ukri.org/opportunity/bioinformatics-and-biological-resources-fund-26bbr/"
+  }
+]

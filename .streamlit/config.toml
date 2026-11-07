@@ -1,0 +1,52 @@
+[theme]
+font = "Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+baseFontSize = 16
+baseRadius = "12px"
+buttonRadius = "8px"
+showWidgetBorder = true
+
+[theme.light]
+primaryColor = "#176B52"
+backgroundColor = "#F7F7F3"
+secondaryBackgroundColor = "#EDF4F1"
+textColor = "#202421"
+borderColor = "#E3E5E1"
+dataframeBorderColor = "#E3E5E1"
+dataframeHeaderBackgroundColor = "#EDF4F1"
+greenColor = "#23835E"
+greenBackgroundColor = "#E7F4ED"
+greenTextColor = "#202421"
+yellowColor = "#B7791F"
+yellowBackgroundColor = "#FFF4DD"
+yellowTextColor = "#202421"
+redColor = "#C44747"
+redBackgroundColor = "#FBEAEA"
+redTextColor = "#202421"
+blueColor = "#3973A8"
+blueBackgroundColor = "#EAF2F8"
+blueTextColor = "#202421"
+headingFontSizes = ["32px", "24px", "18px", "16px", "14px", "12px"]
+headingFontWeights = [700, 650, 600, 600, 600, 600]
+
+[theme.dark]
+primaryColor = "#4EAD88"
+backgroundColor = "#151917"
+secondaryBackgroundColor = "#252C28"
+textColor = "#F1F4F2"
+borderColor = "#343D38"
+dataframeBorderColor = "#343D38"
+dataframeHeaderBackgroundColor = "#252C28"
+greenColor = "#55B88A"
+greenBackgroundColor = "#1D392C"
+greenTextColor = "#F1F4F2"
+yellowColor = "#E1AD55"
+yellowBackgroundColor = "#3A3020"
+yellowTextColor = "#F1F4F2"
+redColor = "#E47575"
+redBackgroundColor = "#3E2525"
+redTextColor = "#F1F4F2"
+blueColor = "#70A7D2"
+blueBackgroundColor = "#203342"
+blueTextColor = "#F1F4F2"
+headingFontSizes = ["32px", "24px", "18px", "16px", "14px", "12px"]
+headingFontWeights = [700, 650, 600, 600, 600, 600]

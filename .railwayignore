@@ -1,0 +1,9 @@
+# Never upload these with `railway up`
+Grant Assistant/
+.env
+.env.*
+!.env.example
+private_data/
+*.db
+*.sqlite3
+.venv/

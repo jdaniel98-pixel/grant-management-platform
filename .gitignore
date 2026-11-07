@@ -1,0 +1,48 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+**/.streamlit/secrets*.toml
+*.pem
+*.key
+pilot-access*.json
+pilot-access*.txt
+
+# Python / local development
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# PI workspace runtime state (created when the app runs; keep data/*.json seed files)
+src/pi_workspace/opportunities.json
+src/pi_workspace/research_notebooks.json
+src/pi_workspace/match_results.json
+src/pi_workspace/uploads/
+src/pi_workspace/.workspace.lock
+src/pi_workspace/pilot-storage/
+
+# Real organisational data must never be committed
+private_data/
+
+# legacy Grant Assistant holds real staff and patient data: never track it here
+Grant Assistant/
+
+# Local platform database (fictional development data)
+instance/
+*.sqlite3

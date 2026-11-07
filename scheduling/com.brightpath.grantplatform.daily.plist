@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- TEMPLATE ONLY. Nothing installs or enables this file. Replace /ABSOLUTE/PATH/TO/Grant Management Platform below
+     with the real project folder (see scheduling/SCHEDULING.md), then load it yourself when you decide to. -->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.brightpath.grantplatform.daily</string>
+    <key>WorkingDirectory</key>
+    <string>/ABSOLUTE/PATH/TO/Grant Management Platform</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/ABSOLUTE/PATH/TO/Grant Management Platform/.venv/bin/python</string>
+        <string>-m</string>
+        <string>grant_platform.jobs</string>
+        <string>run-daily</string>
+    </array>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PYTHONPATH</key>
+        <string>src</string>
+    </dict>
+    <!-- Every day at 07:30. If the Mac is asleep then, launchd runs it when the Mac next wakes. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/ABSOLUTE/PATH/TO/Grant Management Platform/instance/logs/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/ABSOLUTE/PATH/TO/Grant Management Platform/instance/logs/launchd.err.log</string>
+</dict>
+</plist>

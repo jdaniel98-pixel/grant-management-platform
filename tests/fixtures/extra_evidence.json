@@ -1,0 +1,34 @@
+[
+  {
+    "record_key": "fixture_draft_impact_2025",
+    "text": "FICTIONAL TEST FIXTURE: provisional 2025 participant total awaiting validation.",
+    "knowledge_type": "impact",
+    "topic": "young_people_supported",
+    "source": "Fictional test fixture",
+    "external_use": "safe_to_publish",
+    "approval_status": "draft",
+    "reporting_period": "2025",
+    "origin": "manual"
+  },
+  {
+    "record_key": "fixture_internal_board_note",
+    "text": "FICTIONAL TEST FIXTURE: internal board discussion note not cleared for external use.",
+    "knowledge_type": "governance",
+    "topic": "board_oversight",
+    "source": "Fictional test fixture",
+    "external_use": "internal_only",
+    "approval_status": "approved",
+    "origin": "manual"
+  },
+  {
+    "record_key": "fixture_outdated_participants_2019",
+    "text": "FICTIONAL TEST FIXTURE: in 2019 the pilot supported 40 young people.",
+    "knowledge_type": "impact",
+    "topic": "young_people_supported",
+    "source": "Fictional test fixture",
+    "external_use": "safe_to_publish",
+    "approval_status": "approved",
+    "reporting_period": "2019",
+    "origin": "manual"
+  }
+]

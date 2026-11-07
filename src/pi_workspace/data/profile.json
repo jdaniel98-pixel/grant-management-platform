@@ -1,0 +1,169 @@
+{
+  "fictional_prototype_data": true,
+  "lab_overview": {
+    "lab_name": "Advanced Drug Delivery Laboratory (ADDL)",
+    "institution": "Northbridge University — School of Pharmacy & Biomedical Sciences",
+    "location": "United Kingdom",
+    "principal_investigator": "Professor Maya Shah",
+    "description": [
+      "The Advanced Drug Delivery Laboratory investigates how nanoscale drug-delivery systems can improve the delivery of therapeutic molecules to cells and tissues",
+      "The lab develops and characterises nanoparticle-based delivery systems, with particular interests in improving therapeutic stability, cellular uptake and targeted delivery",
+      "Its work combines formulation development, physicochemical characterisation, imaging and cell-based evaluation to understand how the properties of drug-delivery systems influence their biological performance"
+    ]
+  },
+  "principal_investigator": {
+    "name": "Professor Maya Shah",
+    "position": "Professor of Drug Delivery & Nanomedicine",
+    "research_interests": [
+      "Nanoparticle-based drug delivery",
+      "Lipid-based delivery systems",
+      "Nucleic-acid delivery",
+      "Formulation optimisation",
+      "Nanoparticle characterisation",
+      "Cellular uptake and intracellular delivery",
+      "Relationships between nanoparticle properties and biological performance"
+    ],
+    "research_focus": [
+      "Professor Shah's research focuses on understanding how drug-delivery systems can be designed and optimised to improve the transport of therapeutic molecules into target cells",
+      "Her group combines formulation development with physical characterisation and biological testing to understand how characteristics such as particle size, dispersity and encapsulation influence delivery performance"
+    ]
+  },
+  "core_research_themes": [
+    {
+      "name": "Nanoparticle formulation and optimisation",
+      "description": "The lab develops nanoscale formulations for delivering therapeutic molecules",
+      "investigation": "Researchers investigate how changes in formulation composition and preparation affect properties including:",
+      "properties": [
+        "particle size",
+        "particle-size distribution/dispersity",
+        "stability",
+        "encapsulation",
+        "cellular delivery"
+      ],
+      "aim": "The aim is to identify formulations with properties suitable for further biological investigation"
+    },
+    {
+      "name": "Nucleic-acid delivery",
+      "description": "The lab investigates nanoparticle systems for delivering nucleic-acid-based therapeutics into cells",
+      "investigation": "Researchers evaluate the ability of different formulations to protect and transport nucleic acids and examine their effectiveness using cell-based transfection experiments",
+      "aim": "This work seeks to understand the relationship between formulation characteristics and successful intracellular delivery"
+    },
+    {
+      "name": "Nanoparticle structure and characterisation",
+      "description": "The lab studies the physical characteristics and internal structure of drug-delivery nanoparticles",
+      "investigation": "Researchers use complementary analytical and imaging techniques to understand characteristics such as particle size, morphology, dispersity and structural organisation",
+      "purpose": "These measurements help researchers understand why apparently similar formulations may behave differently biologically"
+    },
+    {
+      "name": "Cellular interactions and delivery",
+      "description": "The lab investigates how nanoparticle formulations interact with cells",
+      "investigation": "Researchers use imaging and quantitative analysis to examine cellular uptake and compare how different formulations perform in biological systems",
+      "objective": "The objective is to connect the physical characteristics of a formulation with its biological behaviour"
+    }
+  ],
+  "laboratory_capabilities": {
+    "context": "The lab has experience in:",
+    "formulation": [
+      "Preparation of nanoparticle drug-delivery systems",
+      "Lipid-based nanoparticle formulation",
+      "Encapsulation of therapeutic payloads",
+      "Formulation optimisation"
+    ],
+    "physicochemical_characterisation": [
+      "Particle-size measurement",
+      "Dispersity analysis",
+      "Encapsulation assessment",
+      "Stability assessment"
+    ],
+    "imaging_and_structural_analysis": [
+      "Scanning electron microscopy",
+      "Transmission electron microscopy",
+      "Quantitative imaging analysis",
+      "Access to neutron-scattering facilities through external research facilities/collaborations"
+    ],
+    "biological_evaluation": [
+      "Mammalian cell culture",
+      "Transfection experiments",
+      "Cellular uptake studies",
+      "Comparison of formulation performance in cell-based models"
+    ],
+    "capability_access_note": "This is deliberately a mix of in-house capability and externally accessed capability. Later, that distinction could actually matter when assessing whether the lab can realistically deliver a proposed project"
+  },
+  "example_previous_research": {
+    "note": "These are entirely fictional",
+    "projects": [
+      {
+        "project_number": 1,
+        "title": "Optimising lipid nanoparticles for nucleic-acid delivery",
+        "description": [
+          "The lab investigated how changes in lipid nanoparticle composition affected particle characteristics and transfection performance.",
+          "Different formulations were produced and compared based on particle size, dispersity, encapsulation and their ability to deliver nucleic acids in cultured cells.",
+          "The project identified formulation characteristics associated with improved delivery performance and generated candidate formulations for further investigation."
+        ]
+      },
+      {
+        "project_number": 2,
+        "title": "Understanding nanoparticle structure and formulation stability",
+        "description": [
+          "The group investigated how the internal structure of nanoparticle formulations changed under different formulation and storage conditions",
+          "Particle characterisation was combined with electron microscopy and neutron-scattering measurements accessed through a collaborating research facility",
+          "The project sought to connect structural changes with formulation stability and performance"
+        ]
+      },
+      {
+        "project_number": 3,
+        "title": "Imaging cellular uptake of nanoparticle delivery systems",
+        "description": [
+          "The lab investigated differences in cellular uptake between several experimental nanoparticle formulations",
+          "Imaging and quantitative image analysis were used alongside physicochemical measurements to examine whether differences in nanoparticle characteristics were associated with differences in cellular uptake",
+          "The work contributed to the lab's broader research into relationships between formulation properties and biological performance"
+        ]
+      }
+    ]
+  },
+  "fictional_previous_funding": [
+    {
+      "funding_source": "UK Biomedical Research Council (Nanomedicine Research Award)",
+      "project": "Optimising lipid nanoparticles for intracellular therapeutic delivery",
+      "duration": "2022 to 2025",
+      "value": "£420,000",
+      "supported_research": "Supported research into formulation parameters affecting nanoparticle stability, encapsulation and cellular delivery"
+    },
+    {
+      "funding_source": "Northbridge University Interdisciplinary Research Fund",
+      "project": "Linking nanoparticle structure with biological performance",
+      "duration": "2024 to 2026",
+      "value": "£75,000",
+      "supported_research": "Supported collaboration between the drug-delivery lab and university imaging/materials researchers to investigate nanoparticle structure and cellular behaviour"
+    },
+    {
+      "funding_source": "Biomedical Innovation Seed Fund",
+      "project": "High-throughput characterisation of experimental nanoparticle formulations",
+      "duration": "2025 to 2026",
+      "value": "£48,000",
+      "supported_research": "Supported early-stage development of methods for comparing experimental formulations using physicochemical and imaging data"
+    }
+  ],
+  "collaborations_and_research_environment": {
+    "context": "The lab collaborates with researchers across:",
+    "research_disciplines": [
+      "pharmaceutical sciences",
+      "materials science",
+      "biomedical imaging",
+      "molecular and cellular biology"
+    ],
+    "external_facility_access": "The group also has access to specialist structural-characterisation facilities through external collaborations, including neutron-scattering facilities",
+    "collaboration_role": "These collaborations allow the lab to combine formulation expertise with techniques that are not routinely available within the laboratory itself"
+  },
+  "current_lab_direction": {
+    "context": "The lab is particularly interested in research that improves understanding of:",
+    "research_interests": [
+      "how nanoparticle composition affects therapeutic delivery",
+      "how physical nanoparticle characteristics relate to biological performance",
+      "how nucleic-acid delivery systems can be optimised",
+      "how imaging and structural characterisation can improve formulation design",
+      "how promising formulations can be systematically identified and developed"
+    ],
+    "scope_note": "This represents the lab's existing research direction, rather than specific projects it is currently seeking funding for"
+  }
+}
